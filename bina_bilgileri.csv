@@ -1,0 +1,11 @@
+﻿dosya,yapi_turu,kat_sayisi,insaat_yili,deprem_bolgesi,pga_g,deformasyon_yuzde,doseme_hasari,kolon_hasari
+foto_01.jpg,Betonarme,3,2012,3. Derece,0.12,0.4,0,0
+foto_02.jpg,Yığma,2,1978,2. Derece,0.22,1.0,0,0
+foto_03.jpg,Betonarme,6,2008,2. Derece,0.25,0.7,0,0
+foto_04.jpg,Çelik,4,2003,1. Derece,0.35,1.4,0,0
+foto_05.jpg,Betonarme,5,1992,2. Derece,0.27,2.2,0,0
+foto_06.jpg,Yığma,3,1982,1. Derece,0.4,2.8,1,0
+foto_07.jpg,Betonarme,7,1996,1. Derece,0.45,3.0,0,0
+foto_08.jpg,Betonarme,4,1988,1. Derece,0.55,4.5,1,1
+foto_09.jpg,Ahşap,2,1975,2. Derece,0.3,4.0,1,0
+foto_10.jpg,Yığma,3,1980,1. Derece,0.6,6.0,1,1
